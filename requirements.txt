@@ -1,0 +1,13 @@
+# Python 3.11.0
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+seaborn
+kagglehub
+sqlalchemy
+psycopg2-binary    # optional if you connect to Postgres
+joblib
+pyyaml
